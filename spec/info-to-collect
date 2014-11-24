@@ -1,0 +1,73 @@
+#Info we want to collect
+
+## Key Dates
+* Dates for pre-build (start/finish)
+* Event-time (start/finish)
+* Dates for strike (start/finish)
+
+## Roles
+* Name
+* Manager(s)
+* Shift length
+* Experience required
+* Description
+* Publish status
+* Quantity needed each shift (e.g., "4 people for shift x on day 2")
+* Valid when (some roles may be pre-event, during, post event only)
+
+## Publish status
+* Draft
+* Live
+* Retired
+
+## Conscripts
+* Name
+* Playaname
+* Phone number
+* Email address
+* Skype name
+* Arrival date
+* Departure date
+* Where camping
+* Next of Kin
+* Gender
+* Conditions
+* Comfort zones
+* Languages spoken
+* Link to photo
+* Biography
+* Feeding requirements (allergies etc)
+* Previous burn experience
+* Previous experience with each role
+* Comments
+
+## Shifts
+* Start date
+* End date
+* Shift length
+* Start time
+* End time
+* Role
+* Shift manager
+* Shift Logic/Rules
+* Quantity needed
+
+## Shift status
+* Open
+* Pending
+* Approved
+* Private (e.g. available only to group x, y, z)
+* Extended (more people needed)
+* Removed from schedule
+* At capacity
+* Over subscribed
+
+## Groups
+* Group name
+* Group members
+
+## Shift management
+* Turned up
+* No show
+* Not in a fit state
+* Outstanding
